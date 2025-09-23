@@ -1,0 +1,9 @@
+playwright
+requests
+beautifulsoup4
+cssutils
+Pillow
+tqdm
+scikit-learn
+numpy
+python-dotenv
