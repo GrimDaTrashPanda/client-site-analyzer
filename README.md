@@ -162,3 +162,6 @@ Consulting: Professional documentation for recommendations
 
 Stop losing time to incomplete documentation. Ensure every project starts with comprehensive technical analysis.
 
+## For Developers
+Technical implementation details and code documentation available at:
+[Web Audit POC - Technical Documentation](https://github.com/GrimDaTrashPanda/web-audit-poc)
